@@ -1,1 +1,3 @@
-# books
+# Books
+
+Some books to learn AI
